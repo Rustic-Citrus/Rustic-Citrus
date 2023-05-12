@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rustic-Citrus
 - 👀 I’m interested in Genealogy, Philosophy and Data Analysis
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, R and SQL
 - 💞️ I’m not looking to collaborate on anything right now, but as I improve, I may start
 - 📫 You can reach me via email at harrycurtis@live.com
 
