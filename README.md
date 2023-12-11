@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rustic-Citrus.
-- 👀 I’m interested in algorithms, web design and machine learning.
+- 👀 I’m interested in full-stack development and machine learning.
 - 🌱 I’m currently learning JavaScript, HTML, CSS and Python.
-- 💞️ I’m trying to build an algorithm that automates the creation of a school timetable.
+- 💞️ I’m working on my personal website using the React framework.
 - 📫 You can reach me via email at harrycurtis@live.com.
 
 <!---
