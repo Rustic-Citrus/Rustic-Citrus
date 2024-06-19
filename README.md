@@ -1,10 +1,10 @@
 ## About Me
 
-Welcome to my GitHub profile! My name is Harry, and I'm currently a prospective Software Engineer with experience in Python, JavaScript and Java, as well as a number of other languages, including as HTML, CSS, SQL and R. I also work with human languages, having taught English for over 7 years, and am fluent in Portuguese with an intermediate fluency in German.
+Welcome to my GitHub profile! My name is Harry, and I'm currently a prospective Software Engineer with experience in Python, JavaScript and Java, as well as a number of other languages, including HTML, CSS, SQL and R. I also work with human languages, having taught English for over 7 years, and am fluent in Portuguese, with an intermediate proficiency in German.
 
 ## About My Work
 
-I create applications that facilitate my life and the lives of others, and that hopefully provide value to the user. Sometimes when I make a program for fun, I am the only user, but if anyone is interested in my work, they're more than welcome to adapt it to suit their needs. After all, I'm coding to create value, not to gain fame or recognition.
+I create applications that solve real problems. I look to work with problems with which I have prior experience, such as in education or language-learning.
 
 ## Find Out More
 
